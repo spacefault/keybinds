@@ -16,5 +16,6 @@ You probably shouldn't use these, but you can if you wish.
 1. Download the Script
 2. Give permissions to execute the script
     - do `chmod +x keymanager.sh`
-3. Follow the on screen instructions
+3. Run the Script
+4. Follow the on screen instructions
 
